@@ -2,12 +2,6 @@
 
 > Utility functions for generating and checking Iranian national IDs (legal persons) and national codes (actual person).
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![bundle][bundle-src]][bundle-href]
-
-<!-- [![Codecov][codecov-src]][codecov-href] -->
-
 ## Installation
 
 You can install this package via npm:
