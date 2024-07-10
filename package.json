@@ -1,0 +1,27 @@
+{
+    "name": "iran-national-code",
+    "version": "1.0.0",
+    "description": "Utility functions for generating and checking national IDs and codes",
+    "main": "iran-national-code.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ameer/iran-national-code.git"
+    },
+    "keywords": [
+        "national",
+        "ID",
+        "code",
+        "utility",
+        "iran"
+    ],
+    "author": "Ameer Mousavi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ameer/iran-national-code/issues"
+    },
+    "homepage": "https://github.com/ameer/iran-national-code#readme"
+}
